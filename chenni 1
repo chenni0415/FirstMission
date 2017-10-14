@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<style type="text/css">
+body {background-image:url(./jpg/背景1.jpg);}
+</style>
+<style>
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:120px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+a{font-size: 120%}
+p{
+width:100%;
+ height:100%;
+vertical-align:middle;}
+</style>
+<script type="text/javascript">
+document.write("<h4>WELCOME</h4>")
+</script>
+<body>
+<ul>
+<li><a href="https://www.baidu.com">百度</a>
+<li><a href="http://www.sina.com">新浪</a>
+<li><a href="http://c.tieba.baidu.com">贴吧</a>
+<li><a href="http://www.zhihu.com">知乎</a>
+</ul>
+</body>
+</html>
